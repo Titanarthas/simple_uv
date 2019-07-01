@@ -27,4 +27,4 @@ simple_uv简化了客户端与服务端的通信，客户端与服务端的所�
 
 simple_uv在网络发包的代码参考了phata（wqvbjhc@gmail.com）在GitHub上的开源代码https://github.com/wqvbjhc/libuv_tcp.git
 
-对simple_uv有任何问题可以邮件gzssyxwdy@163.com。
+对simple_uv有任何问题可以邮件gzssyxwdy@gmail.com。
